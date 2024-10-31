@@ -8,7 +8,7 @@ The project requires the `transformers` library to calculate ESM2 embeddings. Yo
 
 ```bash
 pip install transformers
+```
 
-
-### Usage
+## Usage
 A detailed example of how to use is provided in Example_HTRA1.ipynb
