@@ -12,8 +12,4 @@ pip install transformers
 
 ## Usage
 5 detailed case studies were provided: 
-1_Example_HTRA1.ipynb
-2_Example_HTRA3.ipynb
-3_Example_MDM2.ipynb
-4_Example_MDMX.ipynb
-5_Example_EPIX4.ipynb
+1_Example_HTRA1.ipynb; 2_Example_HTRA3.ipynb 3_Example_MDM2.ipynb; 4_Example_MDMX.ipynb; 5_Example_EPIX4.ipynb
